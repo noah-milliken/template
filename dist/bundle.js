@@ -1,1 +1,1 @@
-document.body.appendChild(function(){const t=document.createElement("div");return t.textContent="Hi",t.classList.add("hello"),t}());
+(()=>{var e;(e="heidenberg").toUpperCase()[0],e.slice(1)})();

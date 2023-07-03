@@ -7,5 +7,9 @@ function component() {
 
   return element;
 }
-
-document.body.appendChild(component());
+function capitalize(string) {
+  return string.toUpperCase()[0] + string.slice(1);
+}
+capitalize('heidenberg');
+// document.body.appendChild(component());
+//
