@@ -13,7 +13,11 @@ const Ship = (name, length) => {
     }
   };
   return {
-    name, length, getHits, getIsSunk, hit,
+    name,
+    length,
+    getHits,
+    getIsSunk,
+    hit,
   };
 };
 module.exports = Ship;

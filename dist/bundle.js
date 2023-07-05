@@ -1,1 +1,0 @@
-(()=>{var e;(e="heidenberg").toUpperCase()[0],e.slice(1)})();
